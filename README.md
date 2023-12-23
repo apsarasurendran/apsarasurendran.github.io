@@ -77,7 +77,7 @@ electronically, including details of deductors and deductees.</li>
 <li>Jeera</li>
 
 <hr/>
-<img style = "width:200px" src = "./contact.png">Contact me /img>
+<a href = "./contact.png"> Contact Me </a>
 
 </body>
 
